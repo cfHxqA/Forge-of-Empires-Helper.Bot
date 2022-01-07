@@ -1,0 +1,10 @@
+{
+  "application" : {
+    "identifier" : "Forge-of-Empires.Guild_Battleground",
+    "license" : ""
+  },
+  "environment" : {
+    "build" : "stable",
+    "is_debug_enabled" : false
+  }
+}
