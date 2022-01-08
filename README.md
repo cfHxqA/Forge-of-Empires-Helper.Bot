@@ -17,7 +17,7 @@ Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forg
 Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires_Guild-Battleground.Bot/raw/master/FoE-GBG.Bot.zip)**. If this is all done, start the application and set your settings!
 
 Enter the following command into the command line to start the bot - switch before into the directory:
-`dotnet /your/location/BotNix.App.dll`
+`sudo dotnet /your/location/BotNix.App.dll`
 
 # Legal
 
