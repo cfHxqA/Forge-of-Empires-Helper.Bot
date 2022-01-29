@@ -1,6 +1,6 @@
-# Forge-of-Empires_Guild-Battleground.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2022.1/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+# Forge-of-Empires_Guild-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2022.1/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 
-A little helper to simplify Guild Battleground attacks! :smiley:
+A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
 ### Requirements (Windows-/MacOS-/Linux)
 
@@ -10,11 +10,11 @@ A little helper to simplify Guild Battleground attacks! :smiley:
 
 ### How to use it? (Windows)
 
-Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires_Guild-Battleground.Bot/raw/master/FoE-GBG.Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-GBG.Bot.zip)**. If this is all done, start the application and set your settings!
 
 ### How to use it? (Linux-/MacOS)
 
-Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires_Guild-Battleground.Bot/raw/master/FoE-GBG.Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[FoE-GBG.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-GBG.Bot.zip)**. If this is all done, start the application and set your settings!
 
 Enter the following command into the command line to start the bot - switch before into the directory:
 `sudo dotnet /your/location/BotNix.App.dll`
