@@ -10,11 +10,11 @@ A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
 ### How to use it? (Windows)
 
-Unpack the downloaded archive **[FoE-Helper.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[FoE-Helper.Bot.tar.gz](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.tar.gz)**. If this is all done, start the application and set your settings!
 
 ### How to use it? (Linux-/MacOS)
 
-Unpack the downloaded archive **[FoE-Helper.Bot.zip](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.zip)**. If this is all done, start the application and set your settings!
+Unpack the downloaded archive **[FoE-Helper.Bot.tar.gz](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.tar.gz)**. If this is all done, start the application and set your settings!
 
 Enter the following command into the command line to start the bot - switch before into the directory:
 `sudo dotnet /your/location/BotNix.App.dll`
