@@ -1,6 +1,6 @@
 [
   {
-    "md5": "8d992d518b861002b8a3f9e93f3cb582",
+    "md5": "45e4a441ec6cc2a860888248dd7d6461",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/BeetleX.dll"
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
   },
   {
-    "md5": "fe9dbe5dd00cad8e0c009f9d1b642d91",
+    "md5": "edc565c921f1ea7c0aa8bfcb2723dbbb",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
@@ -56,27 +56,27 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "32464c2fbf36eff9952187220f7140b0",
+    "md5": "9dcbc113122a2e3cf729608b414b77c4",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "395f8438d22f08fb9a583b70857122b4",
+    "md5": "2c3d58b1ef4f888b035a1171a4b24123",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "e6cfc3af97f5cfd7be7f66c70c651b46",
+    "md5": "8decbaa93bb3209476ae5f2f4c094317",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "8ee040f4735f8dbaeec394a2860572cd",
+    "md5": "cdef1c7067044c1c477ba4d9f1fd7350",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "33153878b33ccabc5ba1cac9479b7294",
+    "md5": "b1432060296139784337bb259d680d3b",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "7186866a3472f4dace4499b2f31826fc",
+    "md5": "8d3ab34d94a9003e95d798afe2027996",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RegexMatcher.dll"
   },
   {
-    "md5": "2639a156948a7f841590d455b6eaa143",
+    "md5": "2711648473519fe8f29b76b902a00f84",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RestSharp.dll"
   },
   {
