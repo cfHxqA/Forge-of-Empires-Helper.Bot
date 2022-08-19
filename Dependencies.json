@@ -136,6 +136,10 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
+    "md5": "dc6faacecf3622806e5c25adcbb88892",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebsocket.dll"
+  },
+  {
     "md5": "d0010fe175efbb0a6e1a6a12a37210fe",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/XC.RSAUtil.dll"
   }
