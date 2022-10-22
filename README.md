@@ -1,4 +1,4 @@
-# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2022.9.4/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2022.10.22/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 
 A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
@@ -8,7 +8,7 @@ A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
-### How to use it? (Windows)
+### How to use it? (Windows 8 or HIGHER)
 
 Unpack the downloaded archive **[FoE-Helper.Bot.tar.gz](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.tar.gz)**. If this is all done, start the application and set your settings!
 
