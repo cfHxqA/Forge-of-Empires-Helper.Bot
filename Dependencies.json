@@ -1,82 +1,50 @@
 [
   {
-    "md5": "45e4a441ec6cc2a860888248dd7d6461",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/BeetleX.dll"
+    "md5": "84518e756dac9925fd555ca76b63967a",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/CavemanTcp.dll"
   },
   {
-    "md5": "9e5cb3062012f4f3a52b4b2e8dd0e00c",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/BouncyCastle.Crypto.dll"
+    "md5": "e2c9cd75ccd8c865b022b41f81b4f353",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/HttpServerLite.dll"
   },
   {
     "md5": "12848ced758b9831a88f2fd524db58f3",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/IpMatcher.dll"
   },
   {
-    "md5": "ac3be7cdf53dc2a81fef712d7fefd7e9",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
-  },
-  {
-    "md5": "cd65c2782499accff92be41d2e152399",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Konscious.Security.Cryptography.Blake2.dll"
-  },
-  {
     "md5": "8074b0eeb2d4cf9b1a6b26865bf91aa5",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   },
   {
-    "md5": "134885709f7087d3a1bad3108179578a",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
-  },
-  {
-    "md5": "d7ce22d25b8f8ea05f0480291fac550f",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Extensions.Configuration.dll"
-  },
-  {
-    "md5": "a2544f077d57c4ea44a4694efcbea30b",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
-  },
-  {
-    "md5": "a53d11973f75b15bef19c16a35ffb432",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Extensions.Primitives.dll"
-  },
-  {
-    "md5": "573e4362fdd6156415dbff4e9a9d813d",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
-  },
-  {
-    "md5": "edc565c921f1ea7c0aa8bfcb2723dbbb",
+    "md5": "03d3040294ba1d7ec3202bcdabd1c8d1",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
-    "md5": "916d32b899f1bc23b209648d007b99fd",
+    "md5": "86a83a63f12b55fd3718cfbfb577d7dc",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Newtonsoft.Json.dll"
   },
   {
-    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Noemax.Compression.dll"
-  },
-  {
-    "md5": "9dcbc113122a2e3cf729608b414b77c4",
+    "md5": "1a3188b9bfebf64a9fff41e434e1a27c",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "2c3d58b1ef4f888b035a1171a4b24123",
+    "md5": "d87aa1085b557d10f19d8854c5203c7c",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "8decbaa93bb3209476ae5f2f4c094317",
+    "md5": "ac0b6660172854c9a31b874dde71887e",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "cdef1c7067044c1c477ba4d9f1fd7350",
+    "md5": "6511d847e11339c24c07be2a4a66a051",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "b1432060296139784337bb259d680d3b",
+    "md5": "3818a78e78b3232d5473a2a1eb61cae4",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "8d3ab34d94a9003e95d798afe2027996",
+    "md5": "73a903529edcdb34ae916aab4508d1e3",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
@@ -84,20 +52,16 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RegexMatcher.dll"
   },
   {
-    "md5": "2711648473519fe8f29b76b902a00f84",
+    "md5": "0f35a148008cea4aa8f69673a208e850",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RestSharp.dll"
   },
   {
-    "md5": "ddf59e9676dcc326fc09865f40a43568",
+    "md5": "2ec0543de71dff1bcac6cee3c14a6da4",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
   },
   {
-    "md5": "19ff37e998f5fb9f3f4f29b5f2e139dd",
+    "md5": "5c1f77a3243cac806557e23d84111f77",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Drawing.Common.dll"
-  },
-  {
-    "md5": "cc387f50f9f88db1aa777d78ffd22ff4",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Interactive.Async.dll"
   },
   {
     "md5": "f7541ec3df7a001fe2a9013ac31d4e2c",
@@ -108,15 +72,15 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "2389ebcdaf8df5e5bd20bfee43ffbadd",
+    "md5": "5e827a4fbd40b53b854a1f654ba155c5",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "3e045924190b6bd04a0f416d901d8d37",
+    "md5": "6dc3add8c9b3b3bce9d1a62269274806",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Permissions.dll"
   },
   {
-    "md5": "323302eb6b8aacb91c3aa2dd918cc0fd",
+    "md5": "8d936c30787246bf5342096b6c63c08e",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
@@ -124,23 +88,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/UrlMatcher.dll"
   },
   {
-    "md5": "fccedcb5436d25bda6ae8aa7b3b043e1",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/VIEApps.Components.Utility.dll"
-  },
-  {
-    "md5": "05a99b9873bbf194b5806fa48a042788",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/VIEApps.Components.WebSockets.dll"
-  },
-  {
-    "md5": "3ef8659b8f903f577490447754160349",
+    "md5": "a4fef5e6d5d48555a9649f023bffaa58",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
-    "md5": "dc6faacecf3622806e5c25adcbb88892",
+    "md5": "b55d9d18ac7513de05c3eb9408c6b5ec",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebsocket.dll"
-  },
-  {
-    "md5": "d0010fe175efbb0a6e1a6a12a37210fe",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/XC.RSAUtil.dll"
   }
 ]
