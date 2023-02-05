@@ -1,4 +1,4 @@
-# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2022.11.13/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2023.02.05/) ![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 
 A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
