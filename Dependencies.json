@@ -1,13 +1,5 @@
 [
   {
-    "md5": "f70d1166d498ed3d5e205261b7b99f14",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/CavemanTcp.dll"
-  },
-  {
-    "md5": "d4ec51fe7716e0e582389dabaffcee2d",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/HttpServerLite.dll"
-  },
-  {
     "md5": "12848ced758b9831a88f2fd524db58f3",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/IpMatcher.dll"
   },
@@ -92,11 +84,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/UrlMatcher.dll"
   },
   {
-    "md5": "a4fef5e6d5d48555a9649f023bffaa58",
+    "md5": "a32bb76d827af35014cedd7b999df531",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
-    "md5": "1eb766a643c77d5c1f758f3c685b5c6f",
+    "md5": "f094c9729159ff726a98c9d427642bd2",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebsocket.dll"
   }
 ]
