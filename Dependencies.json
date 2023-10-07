@@ -40,7 +40,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
-    "md5": "2900fa5e6782f4a4f1742219f5556244",
+    "md5": "4dbdf09e87aeb99b8ae5ff7bb3e17628",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RegexMatcher.dll"
   },
   {
@@ -80,11 +80,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Timestamps.dll"
   },
   {
-    "md5": "13fe98cabf216399addbd2dda5137bbe",
+    "md5": "a420f288bdff660398e2b85d3adc05eb",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/UrlMatcher.dll"
   },
   {
-    "md5": "a32bb76d827af35014cedd7b999df531",
+    "md5": "54ccfb7a97bc8c90816b131d13d70424",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
