@@ -16,7 +16,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   },
   {
-    "md5": "03d3040294ba1d7ec3202bcdabd1c8d1",
+    "md5": "a80ed08bb2ebb7caacf1698befe66715",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
@@ -56,11 +56,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RestSharp.dll"
   },
   {
-    "md5": "2ec0543de71dff1bcac6cee3c14a6da4",
+    "md5": "0039eb9a2f99369d5461cfa6aaf8f4f6",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
   },
   {
-    "md5": "5c1f77a3243cac806557e23d84111f77",
+    "md5": "0301fbfe6fc91cf3937571287354b939",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Drawing.Common.dll"
   },
   {
@@ -72,15 +72,15 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "5e827a4fbd40b53b854a1f654ba155c5",
+    "md5": "c80a790270de3dfe685341bddbc8ada8",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "6dc3add8c9b3b3bce9d1a62269274806",
+    "md5": "2bc3989622682fbd03405ddf8a7b931a",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Permissions.dll"
   },
   {
-    "md5": "8d936c30787246bf5342096b6c63c08e",
+    "md5": "6f3564a3954fab32a47180aad82b1016",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
