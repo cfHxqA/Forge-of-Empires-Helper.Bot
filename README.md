@@ -1,4 +1,4 @@
-# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2023.09.01/)
+# Forge-of-Empires-Helper.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/2023.12.01/)
 
 A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
