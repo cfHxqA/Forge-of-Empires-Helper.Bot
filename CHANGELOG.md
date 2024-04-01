@@ -1,4 +1,4 @@
-# CHANGELOG_2024_04_01
+﻿# CHANGELOG_2024_04_01
 
 + Changes Configuration,
   - Added, Guild-Battleground, 'max_points_offset'-option
