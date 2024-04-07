@@ -1,7 +1,9 @@
-﻿# CHANGELOG_2024_04_04
+﻿# CHANGELOG_2024_04_07
+The full and automatic battle mode is now active! Caution is advised when using and observing the bot; if you notice anything unusual, close the bot immediately and report the incident.
+I wish all users lots of fun and maximum rewards! :muscle: :metal:
 
 + Changes Configuration,
-  - Added, Guild-Expedition, specific units declare on specific server
-  - Fixed, Guild-Battleground, issue 'automatism.signal.is_ignore_enabled'-option
-  - Fixed, Guild-Battleground, issue with fight on multiple sectors
-  - Optimized, Guild-Battleground, sychronization battleground-map data and statistic
+  - Issue, Guild-Battleground, 'battleground.automatism'-temporary disabled
+  - Optimized, Guild-Battleground, auto-battle system completely revised
+  - Optimized, Guild-Battleground, synchronization partial revised
+  - Optimized, System, queue-system partial revised
