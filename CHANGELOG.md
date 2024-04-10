@@ -1,6 +1,6 @@
-﻿# CHANGELOG_2024_04_08
+﻿# CHANGELOG_2024_04_10
 
 + Changes Configuration,
-  - Patch, support version 1.280 official
-  - Optimized, Auto-Snipe, Queue-Task system completely revised
-  - Optimized, Auto-Snipe, Shortcut is now functional
+  - Added, Auto-Snipe, 'automatism.is_enabled'-option
+  - Added, Auto-Snipe, 'automatism.min_interval'-option
+  - Fixed, Auto-Snipe, Game Reload/Interrupt key didn't reset auto-snipe activity
