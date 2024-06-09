@@ -1,5 +1,5 @@
-﻿# CHANGELOG_2024_06_07
+﻿# CHANGELOG_2024_06_09
 
 + Changes Configuration,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support for game-version 1.284 & 1.285
+  - Patch, „Something went wrong...“ - forces the game to reload without repeating
