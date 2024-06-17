@@ -1,5 +1,5 @@
-﻿# CHANGELOG_2024_06_09
+﻿# CHANGELOG_2024_06_17
 
 + Changes Configuration,
-  - Added, battleground, shortcut to enable/disable berserk-mode temporary
   - Patch, functional processes optimized and algorithms improved
+  - Patch, official support game-version v1.284 & v1.285
