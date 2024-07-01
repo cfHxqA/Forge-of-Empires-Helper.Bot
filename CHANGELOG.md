@@ -1,5 +1,5 @@
-﻿# CHANGELOG_2024_06_17
+﻿# CHANGELOG_2024_07_01
 
 + Changes Configuration,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.284 & v1.285
+  - Patch, official support game-version v1.285 & v1.286
