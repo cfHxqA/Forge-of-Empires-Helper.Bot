@@ -8,7 +8,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   },
   {
-    "md5": "0711d07c2ed0bf0a8b512e85b00a67f0",
+    "md5": "03d3040294ba1d7ec3202bcdabd1c8d1",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
@@ -16,27 +16,27 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/Newtonsoft.Json.dll"
   },
   {
-    "md5": "e37dfd28d1e75cdc87eb17969d6c811b",
+    "md5": "38a25d3dbca387a747b0e071acf042b6",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "9b9a90fb178dd2e172916bfbe8ef7b3f",
+    "md5": "a3fcbdb9af0051f82f9cef21257d725c",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "d3246ec548bde1e093ed734a9ee2fa62",
+    "md5": "8b4228f55d24c04598e2146ca28ab326",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "c81c8fc092538efa3e81e205be9f8ac1",
+    "md5": "e75252836410ad108f11e4c226714127",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "b3a9638fefd921e799d183462bf5d441",
+    "md5": "38a487da49a085debad1285dd0cdc43b",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "382142c8141092d07fd2b607a882f008",
+    "md5": "693be274aa40b1eff23fa61ef7ca7818",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
@@ -48,11 +48,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/RestSharp.dll"
   },
   {
-    "md5": "f5b0a559d7cacd91642089e3fb649ec6",
+    "md5": "2ec0543de71dff1bcac6cee3c14a6da4",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
   },
   {
-    "md5": "4a20e0a2088fb4f5b7f355ac8d974e74",
+    "md5": "5c1f77a3243cac806557e23d84111f77",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Drawing.Common.dll"
   },
   {
@@ -64,15 +64,15 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "1ce74054f19bb3ed027eb83ef5bc3393",
+    "md5": "5e827a4fbd40b53b854a1f654ba155c5",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "10f16aaf5badf16facae2301e8899d92",
+    "md5": "6dc3add8c9b3b3bce9d1a62269274806",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Security.Permissions.dll"
   },
   {
-    "md5": "88e3e9dc9b592fd225c6cf6592188b43",
+    "md5": "8d936c30787246bf5342096b6c63c08e",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
@@ -88,7 +88,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
-    "md5": "f094c9729159ff726a98c9d427642bd2",
+    "md5": "2962457023dd0ddfca5caa1c4253081f",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Guild_Battleground.Bot/master/Dependencies/WatsonWebsocket.dll"
   }
 ]
