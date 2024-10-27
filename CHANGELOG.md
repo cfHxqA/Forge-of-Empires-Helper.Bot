@@ -1,5 +1,5 @@
-﻿# CHANGELOG_2024_10_21
+﻿# CHANGELOG_2024_10_27
 
 + Changes Configuration,
+  - Added, 'guild_expedition.max_turn_lose'-added to stop after x-amount of lose battles
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.293 & v1.294
