@@ -4,7 +4,7 @@ A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
 ### Requirements (Win8+/MacOS/Linux/ARM)
 
-- [.NET 8.0 SDK or higher](https://dotnet.microsoft.com/download)*
+- [.NET 9.0 SDK or higher](https://dotnet.microsoft.com/download)*
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
