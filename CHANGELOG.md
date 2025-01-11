@@ -1,11 +1,7 @@
-﻿# CHANGELOG_2025_01_07
+﻿# CHANGELOG_2025_01_11
 
-+ Changes Game-Battleground,
-  - Patch, infinite loop in battleground, while select possible units
-  - Patch, infinite loop in battleground, while usage of berserk-mode
-  - Patch, speed increased in battleground, while usage of berserk-mode
-  - Patch, 'min_units'-value in battleground didn't get applied, while usage of berserk-mode
+The “Tampermonkey”-browser extension now supports the latest beta version. A transition to this version is planned in the near future. For now, the beta version will run in parallel with the existing version during the development phase and can be tested at any time. It offers significant advantages over the current version, allowing for greater interaction with the gameplay and providing updated game information.
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.297 & v1.298
+  - Patch, official support game-version v1.298 & v1.300
