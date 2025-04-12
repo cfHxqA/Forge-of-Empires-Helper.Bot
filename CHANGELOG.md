@@ -1,4 +1,4 @@
-﻿# CHANGELOG_2025_03_24
+﻿# CHANGELOG_2025_04_12
 
 + Changes Game,
   - Patch, issue while auto-battle on opening sectors
@@ -6,4 +6,4 @@
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.305 & v1.304
+  - Patch, official support game-version v1.305 & v1.306
