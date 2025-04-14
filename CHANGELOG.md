@@ -1,8 +1,8 @@
-﻿# CHANGELOG_2025_04_12
+﻿# CHANGELOG_2025_04_14
 
 + Changes Game,
-  - Patch, issue while auto-battle on opening sectors
-  - Patch, issue while auto-battle on press defense-/attack button
+  - Added, 'max_attrition_attack'-attribute to battleground
+  -- it allows different attrition between defense-/attack sectors
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
