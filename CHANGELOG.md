@@ -8,4 +8,4 @@
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.306 & v1.307
+  - Patch, official support game-version v1.307 & v1.308, beta-server
