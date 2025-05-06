@@ -88,7 +88,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "133674df0f58662c90ab979a46b124ec",
+    "md5": "3c8e04a8e68b044e186a76e97191706d",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
@@ -104,11 +104,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/RestSharp.dll"
   },
   {
-    "md5": "ac3883b126e8dd2b287f5ff93454eb0e",
+    "md5": "c0db217bb7145ea0bc65960383223b5a",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
   },
   {
-    "md5": "8aaa4d89d4639c08f8f45db84054754d",
+    "md5": "42afbd6696baf4b7052e3fd68bf0a708",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Diagnostics.EventLog.dll"
   },
   {
