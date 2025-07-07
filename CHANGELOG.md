@@ -1,11 +1,9 @@
-﻿# CHANGELOG_2025_06_17, preview-3.3.1.6
+﻿# CHANGELOG_2025_07_07, preview-3.3.1.6
 
 + Game improvements,
-  - Patch, auto-snipe issue with inventory
-  - Patch, guild-expedition issue with inventory
-  - Patch, pvp-arena issue with inventory
-  - Patch, recurring quest issue with inventory
+  - Patch, auto-snipe system improved
+  - Patch, auto-battle system improved
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.310 & v1.311, beta-server
+  - Patch, official support game-version v1.311 & v1.312, beta-server
