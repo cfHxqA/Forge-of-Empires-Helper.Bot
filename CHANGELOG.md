@@ -4,7 +4,7 @@
   - preparation, feature, auto-collect hidden-rewards
   - preparation, feature, auto-collect friends-tavern
   - preparation, feature, auto-synchronize player-data (battleground, inventory, guild-expedition, quests, etc.)
-  - preparation, feature, skipping quest with shortcut
+  - added, 'quest.shortcut_key'-option to skip quest
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
