@@ -1,4 +1,4 @@
-﻿# CHANGELOG_2025_07_25, preview-3.3.2.0
+﻿# CHANGELOG_2025_07_30, preview-3.3.2.0
 
 + Game improvements,
   - preparation, feature, auto-collect hidden-rewards
@@ -9,4 +9,4 @@
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.312 & v1.313, beta-server
+  - Patch, official support game-version v1.313 & v1.314, beta-server
