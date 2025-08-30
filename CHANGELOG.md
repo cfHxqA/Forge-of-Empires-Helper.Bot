@@ -1,9 +1,9 @@
-﻿# CHANGELOG_2025_08_17, preview-3.3.2.0
+﻿# CHANGELOG_2025_08_30, preview-3.3.2.0
 
 + Game improvements,
   - patch, remove battle-reward/result after auto-fight click
-  - patch, quest-settings can now applied while running (no restart required)
+  - patch, issue while battleground-attack, city-defense get removed
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.314 & v1.315, beta-server
+  - Patch, official support game-version v1.315 & v1.316, beta-server
