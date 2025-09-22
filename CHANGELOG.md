@@ -1,4 +1,4 @@
-﻿# CHANGELOG_2025_08_30, preview-3.3.2.0
+﻿# CHANGELOG_2025_09_22, preview-3.3.2.1
 
 + Game improvements,
   - patch, remove battle-reward/result after auto-fight click
@@ -6,4 +6,4 @@
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.315 & v1.316, beta-server
+  - Patch, official support game-version v1.317 & v1.318, beta-server
