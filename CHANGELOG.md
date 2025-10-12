@@ -1,8 +1,8 @@
-﻿# CHANGELOG_2025_10_07, preview-3.3.2.1
+﻿# CHANGELOG_2025_10_12, preview-3.3.2.1
 
 + Game improvements,
-  - patch, remove battle-reward/result after auto-fight click
-  - patch, issue while open currently game-event
+  - patch, issue in guild-expedition while buying medals, the limit was ignored
+  - patch, issue in guild-expedition while collect chest, it didn't get seen every time
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
