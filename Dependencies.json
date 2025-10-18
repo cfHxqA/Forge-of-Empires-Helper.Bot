@@ -12,7 +12,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Security.Permissions.dll"
   },
   {
-    "md5": "1a3d052b42fcdbde266a97a631e04947",
+    "md5": "05e3df2a1a3954ffb12886f4c628e371",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/Timestamps.dll"
   },
   {
@@ -28,11 +28,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
-    "md5": "9df2eac732bc6b7fb974f72c7bfa9bff",
+    "md5": "d825612d269f697ebccd10359141c263",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/WatsonWebserver.dll"
   },
   {
-    "md5": "b29d5627c767ef485350098ce817e733",
+    "md5": "bfd833226061c824e6210b9be71276bc",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/WatsonWebserver.Core.dll"
   },
   {
@@ -64,7 +64,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.IO.Hashing.dll"
   },
   {
-    "md5": "12848ced758b9831a88f2fd524db58f3",
+    "md5": "271cb7a76ce785084e88d383c6c415d2",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/IpMatcher.dll"
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/BeetleX.dll"
   },
   {
-    "md5": "2962457023dd0ddfca5caa1c4253081f",
+    "md5": "f225774726b0dc0775ea2394af1adacc",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/WatsonWebsocket.dll"
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "4dbdf09e87aeb99b8ae5ff7bb3e17628",
+    "md5": "10a7133aafd12b16d831ea06c30c110d",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/RegexMatcher.dll"
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Diagnostics.EventLog.dll"
   },
   {
-    "md5": "026f95fa8772c410a963aee8a6ffb2f9",
+    "md5": "4d6237b5b2db3a28453fa27ab4eeef51",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/UrlMatcher.dll"
   },
   {
