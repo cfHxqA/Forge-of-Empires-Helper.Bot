@@ -1,8 +1,9 @@
-﻿# CHANGELOG_2025_10_22, preview-3.3.2.1
+﻿# CHANGELOG_2025_11_01, preview-3.3.2.1
 
 + Game improvements,
-  - patch, issue in guild-battleground while healing units
-  - patch, issue in guild-battleground while collect attack in autark-mode
+  - patch, critical, city-defense got removed while fighting
+  - patch, critical, arena-defense got removed while fighting
+  - patch, critical issue with internal server error
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
