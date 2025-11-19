@@ -1,9 +1,9 @@
-﻿# CHANGELOG_2025_11_15, preview-3.3.2.1
+﻿# CHANGELOG_2025_11_18, preview-3.3.2.2
 
 + Game improvements,
-  - patch, pvp-arena, opponent sorting has been adjusted; 1th opponent is 1; 2th is 2; 3th is 3
-  - patch, critical issue with internal server error
+  - patch, preparation for collecting hidden rewards, automatic
+  - patch, preparation for collecting tavern silver, automatic
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.320 & v1.321+, beta-server
+  - Patch, official support game-version v1.321 & v1.322+, beta-server
