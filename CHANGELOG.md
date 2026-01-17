@@ -1,8 +1,8 @@
-﻿# CHANGELOG_2026_01_15, preview-3.3.2.2
+﻿# CHANGELOG_2026_01_17, preview-3.3.2.2
 
 + Game improvements,
-  - patch, improved speed-animation in current game-event
-  - patch, improved reward collect in current game-event
+  - patch, updated finally to dotnet-10, please install it, if you didn't do before
+  -- all libraries got finally updated
 
 + Changes Core,
   - Patch, functional processes optimized and algorithms improved
