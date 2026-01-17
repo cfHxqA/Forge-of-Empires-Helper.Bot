@@ -1,31 +1,7 @@
 [
   {
-    "md5": "d19b7ff0c50245b255da817bfe7f433f",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
-  },
-  {
-    "md5": "a99438b87b3a90f037bdeed363e12e79",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Linq.Async.dll"
-  },
-  {
-    "md5": "67384b04a1fb4710905b1bbb96b04ead",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Security.Permissions.dll"
-  },
-  {
     "md5": "05e3df2a1a3954ffb12886f4c628e371",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/Timestamps.dll"
-  },
-  {
-    "md5": "601b1b6ffaa0f36e3c6e3c164da95957",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/DidiSoft.Pgp.dll"
-  },
-  {
-    "md5": "b29f50f670b5ddb9152d9f503c73fdf3",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Common.dll"
-  },
-  {
-    "md5": "2e5f063d18dc2b27aa311034164faa12",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
     "md5": "d825612d269f697ebccd10359141c263",
@@ -36,91 +12,19 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/WatsonWebserver.Core.dll"
   },
   {
-    "md5": "6bf4b8d9dd61f13b30bd6eda60917f6e",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.ServiceModel.dll"
-  },
-  {
-    "md5": "26d37a6896aa43cd27558085ebe49727",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Private.Windows.Core.dll"
-  },
-  {
-    "md5": "0c93d0e09aefa08002b13971b9b9c6c5",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
-  },
-  {
-    "md5": "f8298c722804ff7086716246a83936af",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Windows.Extensions.dll"
-  },
-  {
-    "md5": "8bdee47da6abdde3692db5ebcb111eb7",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.dll"
-  },
-  {
-    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/Noemax.Compression.dll"
-  },
-  {
-    "md5": "655d7733d7fa17bc08d8ac03f1500388",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.IO.Hashing.dll"
-  },
-  {
     "md5": "271cb7a76ce785084e88d383c6c415d2",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/IpMatcher.dll"
-  },
-  {
-    "md5": "a7601422016df4e85e4c895eb08fd216",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Model.dll"
-  },
-  {
-    "md5": "4d6a876de9a9adde63746f06733b5a63",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/BeetleX.dll"
   },
   {
     "md5": "f225774726b0dc0775ea2394af1adacc",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/WatsonWebsocket.dll"
   },
   {
-    "md5": "543a33bc914472af3b7a0e00456c26c5",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/DidiSoft.BouncyCastle.dll"
-  },
-  {
-    "md5": "c252fe44b67a08e6dab4eade3764db49",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/Newtonsoft.Json.dll"
-  },
-  {
-    "md5": "d5a1a527b686f61dd1d8a1295ccfbea9",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
-  },
-  {
-    "md5": "803bee644564f5ef6c4b6db78c7efe52",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
-  },
-  {
     "md5": "10a7133aafd12b16d831ea06c30c110d",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/RegexMatcher.dll"
   },
   {
-    "md5": "7237c760e089f1ecbb72e8201ed93248",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Runtime.Caching.dll"
-  },
-  {
-    "md5": "0f35a148008cea4aa8f69673a208e850",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/RestSharp.dll"
-  },
-  {
-    "md5": "fdf31fca4518bcf39e350efb3bda976d",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
-  },
-  {
-    "md5": "b14cd292dad382558da4e5de7a913918",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Diagnostics.EventLog.dll"
-  },
-  {
     "md5": "4d6237b5b2db3a28453fa27ab4eeef51",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/UrlMatcher.dll"
-  },
-  {
-    "md5": "2d74d2414a36cebe7d9e022a884e7c45",
-    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires-Helper.Bot/master/Dependencies/System.Drawing.Common.dll"
   }
 ]
