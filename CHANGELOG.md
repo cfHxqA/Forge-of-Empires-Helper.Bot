@@ -1,12 +1,13 @@
-﻿# CHANGELOG_2026_03_18, preview-3.3.2.3
+﻿# CHANGELOG_2026_04_10, preview-3.3.2.3
 
 + game improvements,
-  - Patch, optimization and restructuring of internal processes for auto-snipe to improve performance and reliability
-  - Patch, restructuring of internal processes for guild-expedition to enhance stability and reduce edge-case issues
-  - Patch, restructuring of internal processes for player-vs-player to improve matchmaking and combat flow
-  - Patch, fixes for various minor bugs related to event triggering and state synchronization
-  - Patch, fixes for inconsistent behavior in automated actions
+  - Patch, major restructuring of internal processes for auto-snipe to align with updated in-game architecture  
+  - Patch, rework of auto-snipe logic to ensure compatibility with recent structural game changes  
+  - Patch, optimization of auto-snipe execution flow to improve responsiveness and accuracy  
+  - Patch, fixes for issues caused by outdated auto-snipe handling after game structure update  
+  - Patch, improved stability of auto-snipe in edge-case scenarios and dynamic conditions  
+  - Patch, adjustments to synchronization mechanisms within auto-snipe to prevent desync and unintended behavior
 
 + changes Core,
   - Patch, functional processes optimized and algorithms improved
-  - Patch, official support game-version v1.330 & v1.331+, beta-server
+  - Patch, official support game-version v1.332 & v1.333+, beta-server
