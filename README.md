@@ -2,9 +2,9 @@
 
 A little helper to simplify Guild Battleground-/Guild-vs-Guild attacks! :smiley:
 
-### Requirements (Win8+/MacOS/Linux/ARM)
+### Requirements (Win8+/MacOS/Linux/ARM, ...)
 
-- [.NET 9.0 SDK or higher](https://dotnet.microsoft.com/download)*
+- [.NET 10.0 SDK or higher](https://dotnet.microsoft.com/download)*
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
@@ -17,7 +17,7 @@ Unpack the downloaded archive **[FoE-Helper.Bot.tar.gz](https://github.com/cfHxq
 Unpack the downloaded archive **[FoE-Helper.Bot.tar.gz](https://github.com/cfHxqA/Forge-of-Empires-Helper.Bot/raw/main/FoE-Helper.Bot.zip)**. If this is all done, start the application and set your settings!
 
 Enter the following command into the command line to start the bot - switch before into the directory:
-`sudo dotnet /your/location/BotNix.App.dll`
+`sudo dotnet /your/location/BotNix.ClientApp.dll`
 
 # Legal
 

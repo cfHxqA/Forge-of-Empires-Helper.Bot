@@ -1,10 +1,8 @@
-﻿# CHANGELOG_2026_09_13, preview-3.3.4.3
+﻿# CHANGELOG_2026_09_28, preview-3.3.4.4
 
 + game improvements,
-  - Patch, improved the synchronization and asynchronous handling of troop selection processes
-  - Patch, improved the synchronization and asynchronous handling of Guild Battleground processes
-  - Patch, improved the synchronization and asynchronous handling of Player-vs-Player processes
-  - Patch, improved the synchronization and asynchronous handling of the auto-snipe function
+  - added, new shortcut-key for temporary enable-/disable attack signal in battleground, automatism-mode
+  - added, new shortcut-key for temporary enable-/disable ignore signal in battleground, automatism-mode
 
 + changes Core,
   - Patch, functional processes optimized and algorithms improved
