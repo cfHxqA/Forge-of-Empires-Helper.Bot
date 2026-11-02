@@ -2,7 +2,9 @@
 
 + game improvements,
   - added, new shortcut-key for temporary enable-/disable attack signal in battleground, automatism-mode
+  -- see: battleground.automatism.shortcut_key.toggle_attack
   - added, new shortcut-key for temporary enable-/disable ignore signal in battleground, automatism-mode
+  -- see: battleground.automatism.shortcut_key.toggle_ignore
 
 + changes Core,
   - Patch, functional processes optimized and algorithms improved
